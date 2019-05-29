@@ -1,3 +1,3 @@
 # anterior
-收集之前的一些题目，不是很全以re和pwn为主\
+鏀堕泦CTF姣旇禌涓殑涓�浜涢鐩紝涓嶆槸寰堝叏浠e鍜宲wn涓轰富\
 ![](https://github.com/voidzhakul/anterior/blob/master/mix/2333.jpg)
