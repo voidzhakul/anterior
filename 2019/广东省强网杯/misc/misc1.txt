@@ -1,0 +1,5 @@
+小明在实现避免字符混淆的编码算法时,不小心错位了数组，你能帮他还原代码吗？
+
+RJv9mjS1bM9MZafGV77uTyDaapNLSk6t358j2Mdf1pbCByjEiVpX
+
+flag格式：flag{xxx}

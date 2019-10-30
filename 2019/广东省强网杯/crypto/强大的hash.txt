@@ -1,0 +1,6 @@
+为了规避密码hash泄漏后被GPU爆破，安全部推广安全hash算法。您可以告诉我数据库中的hash密码是什么么？
+hash：$v=19$m=32768,t=100,p=1$MTIzNDU2Nzg$iuSRO5tkWxBxqgkI5g9O5ZersA//xvgvrKxH8QuxBBI4yKbG4aRFqITP/Rh5giFRuL9PTJP+/0BUfNwZHzx9bQ
+
+密码格式：CTF_三位数_三位数 （数字为电话号码）
+例如：CTF_114_114
+flag为： flag{CTF_三位数_三位数}
